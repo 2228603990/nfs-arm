@@ -1,1 +1,1 @@
-FROM registry.k8s.io/sig-storage/nfsplugin:v4.3.0
+FROM netapp/beegfs-csi-driver:vl.4.0
