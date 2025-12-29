@@ -1,1 +1,1 @@
-FROM netapp/beegfs-csi-driver:vl.3.0
+FROM netapp/beegfs-csi-driver:v1.4.0
