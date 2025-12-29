@@ -1,1 +1,1 @@
-FROM quay.io/netapp/beegfs-csi-driver:vl.4.0
+FROM netapp/beegfs-csi-driver:vl.3.0
