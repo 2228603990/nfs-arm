@@ -1,1 +1,1 @@
-FROM --platform=linux/arm64 registry.k8s.io/sig-storage/nfsplugin:v4.3.0
+FROM --platform=linux/arm64 m.daocloud.io/registry.k8s.io/build-image/debian-base:bullseye-v1.4.3
